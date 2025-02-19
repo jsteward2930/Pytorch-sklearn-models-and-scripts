@@ -1,6 +1,4 @@
-# Pytorch-models-and-scripts
-
-# PyTorch Models and Scripts
+# Pytorch-SKlearn-models-and-scripts
 
 ## Overview
 This repository contains implementations of various deep learning models and useful PyTorch scripts. It serves as a portfolio demonstrating proficiency in PyTorch and deep learning concepts. Each model is implemented with clean, well-documented code and includes training utilities, visualization tools, and example usage.
